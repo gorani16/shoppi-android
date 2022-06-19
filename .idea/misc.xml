@@ -4,7 +4,9 @@
     <option name="filePathToZoomLevelMap">
       <map>
         <entry key="..\:/Users/gorani/AndroidStudioProjects/shoppi-android/app/src/main/res/drawable/background_splash_screen.xml" value="0.33" />
+        <entry key="..\:/Users/gorani/AndroidStudioProjects/shoppi-android/app/src/main/res/layout/activity_main.xml" value="0.33" />
         <entry key="..\:/Users/gorani/AndroidStudioProjects/shoppi-android/app/src/main/res/layout/activity_product_detail.xml" value="0.16195761856710394" />
+        <entry key="..\:/Users/gorani/AndroidStudioProjects/shoppi-android/app/src/main/res/layout/fragment_home.xml" value="0.31929347826086957" />
       </map>
     </option>
   </component>
